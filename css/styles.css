@@ -1,0 +1,266 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+   background-image: url(/css/img/fondo.jpg);
+   background-size:cover;
+   background-repeat:inherit;
+
+   margin: 0em;
+}
+
+#titulo{
+    padding: 0em;
+    margin: 9em;
+
+}
+
+#titulo2{
+    margin-top: 0em;
+}
+
+#titulo3{
+    margin: 1em;
+}
+
+#titulo4{
+padding: 1em;
+margin-top: 4em;
+}
+
+h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 44);
+}
+
+#reglas{
+    border: 0.5em;
+    border-color: rgb(255, 255, 44);
+    border-style:ridge;
+    color: rgb(255, 255, 44);
+    font-style: oblique;
+    font-size: 1em;
+    height: auto;
+    width: auto;
+}
+p{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+}
+#botonespantalla2{
+    padding: 3em;
+}
+h1{
+    
+    margin: auto;
+    color: rgb(255, 255, 44);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifM
+
+}
+
+h4{
+ margin-top: 10em;
+ color: rgb(255, 255, 44);
+}
+
+h3{
+    color:   rgb(255, 255, 44);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+
+    width: 10em;
+    height: 4em;
+}
+#botonesjugaryreglas{
+margin: auto;
+}
+    
+#botonespantalla2{
+    margin: auto;
+}
+.col-md-4{
+    width: 30em;
+
+}
+
+a{
+    pointer-events: none;
+}
+
+#usuariodiv{
+
+    margin: 10em;
+}
+
+.nombre{
+    margin-left: 0em;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:  rgb(255, 255, 44);
+}
+
+/*PANTALLA 1*/
+#niveles{
+    margin: -3em;
+}
+#input1{
+    margin-left: 0em;
+}
+
+
+#botonprincipiante{
+    width: 15em;
+    height: 6em;
+    color:  rgb(255, 255, 44);;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#botonotro{
+    width: 15em;
+    height: 6em;
+}
+
+#botonintermedio{
+    color:  rgb(255, 255, 44);;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#botonavanzado{
+     color:  rgb(255, 255, 44);;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#botoncomprobar{
+    margin: 2em;
+}
+
+/*Pantalla2*/
+ #botonlisto{
+    margin-top: 3em;
+ }
+ #cambio{
+    margin: auto;
+ }
+.color1{
+    width: 5em;
+    height:5em;
+    background-color: rgb(255, 255, 255);
+}
+.color2{
+    width: 5em;
+    height:5em;
+    background-color:  rgb(255, 255, 255);
+}
+.color3{
+    width: 5em;
+    height:5em;
+    background-color: rgb(255, 255, 255);
+}
+.color4{
+    width: 5em;
+    height:5em;
+    background-color: rgb(255, 255, 255);
+}
+
+#color5{
+    width: 5em;
+    height: 5em;
+}
+#color6{
+    width:5em;
+    height:5em;
+}
+#color7{
+    width: 5em;
+    height:5em;
+}
+#color8{
+    width: 5em;
+    height:5em;
+}
+
+
+
+
+
+
+/* JUEGO*/
+body{
+    background-color: black;
+}
+.container-board {
+    display: flex;
+    height: 54em;
+    width: 65em;
+}
+
+
+
+
+.board {
+    height: 51em;
+    width: 49em;
+    margin-top: -29em;
+}
+
+.row {
+    width: 25em;
+    height: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.board-box {
+    height: 3em;
+    width: 3em;
+    border-radius: 20%;
+    margin: -50px;
+    border: solid 5px white;
+}
+
+.score {
+    margin: -29em;
+    height: 51em;
+    width: 10em;
+}
+
+.score-row {
+    width: 10em;
+    height: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.check-box {
+    height: 1.8em;
+    width: 3em;
+    border: solid 4px rgb(163, 163, 163);
+    border-radius: 50%;
+    margin: 2px;
+}
+.clon-color {
+    width: 3em;
+    height: 3em;
+} 
+/*GANADOR */
+
+img{
+    margin: 5em;
+}
+#botonganador{
+   margin: 2em;
+    color:  rgb(255, 255, 44);;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ #botonhome2{
+
+    margin: 2em;
+    color:  rgb(255, 255, 44);;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ 
+   
+
+
