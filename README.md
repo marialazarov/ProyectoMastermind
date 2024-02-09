@@ -35,6 +35,9 @@ combinaciones).
 <a href="">
     <img src= "https://sergiosanz.dev/static/b0ad08bfda05fba464bf2927db87772d/6df68/html-css.png"/>
 </a>
+<a href="">
+    <img src= "https://repository-images.githubusercontent.com/657736250/efe020c3-cfc2-41f9-be41-ad581ffc9969"/>
+</a>
 
  </div>
 
